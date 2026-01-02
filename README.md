@@ -134,4 +134,4 @@ Trauma responses aren’t broken behavior.
 They’re ancient blueprints — still running.
 PRM shows the map before you rewrite the path.
 
-Legacy version WILL BE DELETED 1/1/2026
+Legacy versions WILL BE DELETED!
